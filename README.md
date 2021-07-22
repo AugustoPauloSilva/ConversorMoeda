@@ -1,2 +1,2 @@
 # ConversorMoeda
-Android app project for learning
+App project for learning Android
